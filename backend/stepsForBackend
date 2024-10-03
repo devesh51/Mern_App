@@ -1,0 +1,3 @@
+step 1:-  npm init -y it will create pakage.json
+step 2:-  npm i express jsonwebtoken bcrypt body-parser dotenv mongoose joi cors (install all library which is nessecarry)
+step 3- 
